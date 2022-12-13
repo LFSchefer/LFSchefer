@@ -1,4 +1,5 @@
 ### Hi there 👋
+⚡ Junior Full stack Web Dev 
 
 <!--
 **LFSchefer/LFSchefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
