@@ -2,6 +2,8 @@
 
 ⚡ Junior Full stack Web Dev 
 
+Available for a Job ✨
+
 [Portfolio](https://bit.ly/486O9ro)
 
 <!--
