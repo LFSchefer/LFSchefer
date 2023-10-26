@@ -7,7 +7,6 @@ Available for a Job ✨
 [Portfolio](https://bit.ly/486O9ro)
 
 <!--
-
 **LFSchefer/LFSchefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
