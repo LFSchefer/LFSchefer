@@ -3,7 +3,6 @@
 ⚡ Junior Full stack Web Dev 
 
 [Linkedin](https://www.linkedin.com/in/lfschefer/)
-[Portfolio](https://bit.ly/486O9ro)
 
 <!--
 
