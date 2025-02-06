@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Junior Full stack Web Dev 
+⚡ Junior Full stack Developer
 
 [Linkedin](https://www.linkedin.com/in/lfschefer/)
 
